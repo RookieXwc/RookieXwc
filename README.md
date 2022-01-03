@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Visitor Count](https://profile-counter.glitch.me/RookieXwc/count.svg)
 <!--
 **RookieXwc/RookieXwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
